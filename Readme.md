@@ -7,8 +7,8 @@
 Educational Token (EDU) is an Ethereum-based cryptocurrency designed to incentivize learning by rewarding users with tokens for watching educational videos. By combining blockchain technology with education, this project aims to create an engaging and rewarding learning experience for users while fostering knowledge-sharing and self-improvement.
 
 ## Contract Address
-> 0x30248f6a2048A49438D807d3729312Ff46B32f6C
-![earn tokens contract](https://github.com/user-attachments/assets/c00d0e1e-70fc-4441-9bd9-cfc105b67601)
+> 0xBB812f534D4Feb77904DB8E088CB6Cf270d800b8
+![contract git](https://github.com/user-attachments/assets/2fb3f328-b1e8-4232-84c1-ff1f71efca4f)
 
 
 ## Project Vision
